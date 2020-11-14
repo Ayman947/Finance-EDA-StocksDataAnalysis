@@ -14,5 +14,6 @@
 > Data collection.
 > Data wrangling and quality assurance.
 > Feature Engineering, normalization, and computing daily returns.
-
+> Visualizing our data.
+> Conveying the key insights.
 
